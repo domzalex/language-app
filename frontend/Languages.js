@@ -1,0 +1,17 @@
+export const Languages = [
+    { label: 'Danish', value: 'da' },
+    { label: 'German', value: 'de' },
+    { label: 'English', value: 'en' },
+    { label: 'Spanish', value: 'es' },
+    { label: 'French', value: 'fr' },
+    { label: 'Italian', value: 'it' },
+    { label: 'Japanese', value: 'ja' },
+    { label: 'Korean', value: 'ko' },
+    { label: 'Norwegian Bokmal', value: 'nb' },
+    { label: 'Dutch', value: 'nl' },
+    { label: 'Polish', value: 'pl' },
+    { label: 'Portuguese', value: 'pt' },
+    { label: 'Russian', value: 'ru' },
+    { label: 'Swedish', value: 'sv' },
+    { label: 'Chinese', value: 'zh' },
+]
