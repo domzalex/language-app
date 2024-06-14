@@ -5,7 +5,7 @@ const MessageThreadContainer = () => {
     return (
         // Come back once I am getting information from a DB
         <View style={styles.messageContainer}>
-            <Image source={require('./assets/img/profilePicture.jpg')} style={{ width: 65, height: 65, borderRadius: 65 }} />
+            <Image source={require('./assets/img/defaultProfilePicture.jpg')} style={{ width: 65, height: 65, borderRadius: 65 }} />
             <View style={{display: 'flex', gap: 12, flex: 1}}>
                 <View style={styles.nameDate}>
                     <Text style={styles.name}>Yamato</Text>

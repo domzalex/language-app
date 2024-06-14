@@ -45,7 +45,7 @@ const PostContainer = ({ translateText }) => {
             
             {/* Profile pic && Name/Lang/Follow */}
             <View style={styles.postContainerHeader}>
-                <Image source={require('./assets/img/profilePicture.jpg')} style={{ width: 40, height: 40, borderRadius: 40 }} />
+                <Image source={require('./assets/img/defaultProfilePicture.jpg')} style={{ width: 40, height: 40, borderRadius: 40 }} />
                 <View style={{display: 'flex', flex: 1}}>
                     <View style={styles.nameFollow}>
                         <Text style={{fontWeight: 'bold'}}>Yamato</Text>
